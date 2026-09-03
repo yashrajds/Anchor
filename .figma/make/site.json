@@ -1,0 +1,10 @@
+{
+  "description": "Streamline writing by removing filler phrases, redundant structures, and hedging to create clear, concise, and engaging content effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
